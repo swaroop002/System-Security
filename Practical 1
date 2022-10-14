@@ -1,0 +1,4 @@
+# Static Code Analysis using Open Source Tool - Flawfinder
+
+### What is Flawfinder
+FlawFinder is a python based tool that helps in finding vulnerabilities in a C/C++ source code. It examines the source code and gives the list of possible vulnerabilities/flaws in the code as the output.
